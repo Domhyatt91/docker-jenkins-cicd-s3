@@ -84,32 +84,31 @@ Live Website
 
 ## Jenkins Dashboard
 
-![Jenkins Dashboard](screenshots/01-jenkins-dashboard.png)
+![Jenkins Dashboard](screenshots/01-jenkins-dashboard.png.png)
 
 ---
 
 ## Successful Pipeline Build
 
-![Successful Pipeline Build](screenshots/02-successful-build.png)
+![Successful Pipeline Build](screenshots/02-console-output.png.png)
 
 ---
 
 ## Docker Container Running
 
-![Docker Container](screenshots/03-docker-container.png)
+![Docker Container](screenshots/03-docker-container.png.png)
 
 ---
 
 ## Jenkins Console Output
 
-![Jenkins Console Output](screenshots/02-console-output.png)
+![Jenkins Console Output](screenshots/02-console-output.png.png)
 
 ---
 
 ## Live AWS S3 Website
 
 ![Live AWS S3 Website](screenshots/04-live-s3-website.png)
-
 ---
 
 # 🎯 Skills Demonstrated
