@@ -84,48 +84,31 @@ Live Website
 
 ## Jenkins Dashboard
 
-(Add Screenshot)
+![Jenkins Dashboard](screenshots/01-jenkins-dashboard.png)
 
 ---
 
 ## Successful Pipeline Build
 
-(Add Screenshot)
+![Successful Pipeline Build](screenshots/02-successful-build.png)
 
 ---
 
 ## Docker Container Running
 
-(Add Screenshot)
+![Docker Container](screenshots/03-docker-container.png)
 
 ---
 
 ## Jenkins Console Output
 
-(Add Screenshot)
-
----
-
-## GitHub Repository
-
-(Add Screenshot)
+![Jenkins Console Output](screenshots/02-console-output.png)
 
 ---
 
 ## Live AWS S3 Website
 
-(Add Screenshot)
-
----
-
-# 💻 Jenkins Pipeline
-
-The pipeline automatically:
-
-- Pulls source code from GitHub
-- Authenticates using AWS IAM Credentials
-- Deploys website files using AWS CLI
-- Publishes updates to Amazon S3
+![Live AWS S3 Website](screenshots/04-live-s3-website.png)
 
 ---
 
