@@ -84,19 +84,19 @@ Live Website
 
 ## Jenkins Dashboard
 
-![Jenkins Dashboard](screenshots/01-jenkins-dashboard.png.png)
+![Jenkins Dashboard](screenshots/01-jenkins-dashboard.png)
 
 ---
 
 ## Successful Pipeline Build
 
-![Successful Pipeline Build](screenshots/02-console-output.png.png)
+![Successful Pipeline Build](screenshots/02-console-output.png)
 
 ---
 
 ## Docker Container Running
 
-![Docker Container](screenshots/03-docker-container.png.png)
+![Docker Container](screenshots/03-docker-container.png)
 
 ---
 
