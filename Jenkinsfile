@@ -24,7 +24,7 @@ pipeline {
             steps {
                 withCredentials([[
                     $class: 'AmazonWebServicesCredentialsBinding',
-                    credentialsId: 'aws-s3-credentials'
+                    credentialsId: '309926bf-0435-4ec5-89d1-18d45c4b20bb'
                 ]]) {
                     sh '''
                     aws s3 sync . s3://domhyatt91-static-website --delete \
