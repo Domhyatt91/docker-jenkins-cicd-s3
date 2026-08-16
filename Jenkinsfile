@@ -12,6 +12,14 @@ pipeline {
             }
         }
 
+        stage('Security Scan') {
+            steps {
+                sh '''
+                trivy fs --scanners vuln,secret --exit-code 1 --severity HIGH,CRITICAL .
+                '''
+            }
+        }
+
         stage('Deploy to S3') {
             steps {
                 withCredentials([[
